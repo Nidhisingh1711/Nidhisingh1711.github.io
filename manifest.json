@@ -1,0 +1,15 @@
+{
+  "name": "Nidhi Singh — Product Strategist & Project Manager",
+  "short_name": "Nidhi Singh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfaf5",
+  "theme_color": "#1a1d29",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
